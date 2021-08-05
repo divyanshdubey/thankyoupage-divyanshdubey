@@ -20,6 +20,12 @@ html{
     margin: auto;
 }
 
+.max-width1{
+    max-width: 1750px;
+    padding: 0 20px;
+    margin: auto;
+}
+
 /* HTML link styling */
 
 a:link {
